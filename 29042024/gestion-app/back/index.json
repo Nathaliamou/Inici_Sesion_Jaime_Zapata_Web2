@@ -1,0 +1,35 @@
+{
+  "user": [
+    {
+      "user": "admin",
+      "contrasena": "1234"
+    },
+    {
+      "user": "jaime",
+      "contrasena": "1234"
+    },
+    {
+      "user": "nathalia",
+      "contrasena": "1234"
+    },
+    {
+      "id": "ad64",
+      "user": "nata",
+      "contrasena": "1234",
+      "correo": "correo@correo.com"
+    },
+    {
+      "id": "3ab7",
+      "user": "natha",
+      "contrasena": "1234",
+      "correo": "correo@correo.com"
+    },
+    {
+      "id": "b964",
+      "user": "andrea",
+      "contrasena": "1234",
+      "correo": "andrea@correo.com"
+    }
+  ],
+  "productos": []
+}
